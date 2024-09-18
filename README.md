@@ -52,6 +52,11 @@ you can install the required libraries using pip:
 - [breeze themes repository](https://github.com/planetwiide/breeze-themes) 🎨
 - [breeze scripts repository](https://github.com/planetwiide/breeze-scripts) 📜
 
+# 🪪 Preview
+![image](https://github.com/user-attachments/assets/db1f2bc3-6ccc-4b9c-9e3d-af872b2cbfa2)
+![image2](https://github.com/user-attachments/assets/f03dc258-2db2-4127-a081-65f10c4549db)
+
+
 ## 📄 license
 
 this project is licensed under the mit license – see the [license](LICENSE) file for details.
