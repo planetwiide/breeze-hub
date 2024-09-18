@@ -1,11 +1,11 @@
 # 📜 breeze themes & scripts manager 🎨
 
-![license](https://img.shields.io/github/license/planetwiide/breeze-themes?style=flat-square)
-![latest release](https://img.shields.io/github/v/release/planetwiide/breeze-themes?style=flat-square)
-![commits](https://img.shields.io/github/commit-activity/m/planetwiide/breeze-themes?style=flat-square)
-![contributors](https://img.shields.io/github/contributors/planetwiide/breeze-themes?style=flat-square)
-![stars](https://img.shields.io/github/stars/planetwiide/breeze-themes?style=flat-square)
-![forks](https://img.shields.io/github/forks/planetwiide/breeze-themes?style=flat-square)
+![license](https://img.shields.io/github/license/planetwiide/breeze-hub?style=flat-square)
+![latest release](https://img.shields.io/github/v/release/planetwiide/breeze-hub?style=flat-square)
+![commits](https://img.shields.io/github/commit-activity/m/planetwiide/breeze-hub?style=flat-square)
+![contributors](https://img.shields.io/github/contributors/planetwiide/breeze-hub?style=flat-square)
+![stars](https://img.shields.io/github/stars/planetwiide/breeze-hub?style=flat-square)
+![forks](https://img.shields.io/github/forks/planetwiide/breeze-hub?style=flat-square)
 
 ## 🎉 about
 
@@ -13,7 +13,7 @@ the **breeze themes & scripts manager** allows you to easily manage and install 
 
 ## 📥 how to install
 
-1. go to the [releases page](https://github.com/planetwiide/breeze-themes/releases) of the repository.
+1. go to the [releases page](https://github.com/planetwiide/breeze-hub/releases) of the repository.
 2. download the latest version of the `breeze-hub.zip` file.
 3. extract it to your loved directory then run `breeze-hub.exe` file and follow the instructions in the gui.
 
@@ -45,7 +45,7 @@ you can install the required libraries using pip:
 3. create a new branch for your feature or bugfix: `git checkout -b feature-name`.
 4. make your changes and commit them: `git commit -m 'added new feature'`.
 5. push to your branch: `git push origin feature-name`.
-6. open a pull request on the [original repository](https://github.com/planetwiide/breeze-themes).
+6. open a pull request on the [original repository](https://github.com/planetwiide/breeze-hub).
 
 ## 📚 repositories
 
