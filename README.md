@@ -14,8 +14,8 @@ the **breeze themes & scripts manager** allows you to easily manage and install 
 ## 📥 how to install
 
 1. go to the [releases page](https://github.com/planetwiide/breeze-hub/releases) of the repository.
-2. download the latest version of the `breeze-hub.zip` file.
-3. extract it to your loved directory then run `breeze-hub.exe` file and follow the instructions in the gui.
+2. download the latest version of the `breeze-hub.exe` file.
+3. run `breeze-hub.exe` file and follow the instructions in the gui.
 
 ## 📦 requirements
 
