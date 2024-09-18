@@ -1,2 +1,45 @@
-# breeze-hub
-the breeze-hub themes &amp; scripts manager allows you to easily manage and install custom themes and scripts for breeze client.
+# 📜 breeze themes & scripts manager 🎨
+
+![license](https://img.shields.io/github/license/planetwiide/breeze-themes?style=flat-square)
+![latest release](https://img.shields.io/github/v/release/planetwiide/breeze-themes?style=flat-square)
+![commits](https://img.shields.io/github/commit-activity/m/planetwiide/breeze-themes?style=flat-square)
+![contributors](https://img.shields.io/github/contributors/planetwiide/breeze-themes?style=flat-square)
+![stars](https://img.shields.io/github/stars/planetwiide/breeze-themes?style=flat-square)
+![forks](https://img.shields.io/github/forks/planetwiide/breeze-themes?style=flat-square)
+
+## 🎉 about
+
+the **breeze themes & scripts manager** allows you to easily manage and install custom themes and scripts for the breeze hacked client in minecraft. it offers a user-friendly interface to select and download themes or scripts individually, directly into the necessary folders.
+
+## 📥 how to install
+
+1. go to the [releases page](https://github.com/planetwiide/breeze-themes/releases) of the repository.
+2. download the latest version of the `breezeDL.exe` file.
+3. run the `breezeDL.exe` file and follow the instructions in the gui.
+
+## 🚀 features
+
+- download individual themes and scripts from the github repositories.
+- automatic directory setup for both themes and scripts.
+- options to open the theme and script directories directly from the app.
+- check for updates with a single click.
+- no console window, with a clean and simple interface.
+- credit: **made by planetwiide** ✨
+
+## 🗽 how to contribute
+
+1. fork this repository.
+2. clone the forked repository to your local machine.
+3. create a new branch for your feature or bugfix: `git checkout -b feature-name`.
+4. make your changes and commit them: `git commit -m 'added new feature'`.
+5. push to your branch: `git push origin feature-name`.
+6. open a pull request on the [original repository](https://github.com/planetwiide/breeze-themes).
+
+## 📚 repositories
+
+- [breeze themes repository](https://github.com/planetwiide/breeze-themes) 🎨
+- [breeze scripts repository](https://github.com/planetwiide/breeze-scripts) 📜
+
+## 📄 license
+
+this project is licensed under the mit license – see the [license](LICENSE) file for details.
